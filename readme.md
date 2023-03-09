@@ -7,6 +7,6 @@
 I plan to update this repository as I make progress in the deep learning specialization course.
 
 - Neural Networks and Deep Learning
-    1. Week 2
-    2. Week 3
-    3. Week 4
+    - Week 2
+    - Week 3
+    - Week 4
