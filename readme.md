@@ -10,3 +10,6 @@ I plan to update this repository as I make progress in the deep learning special
     - Week 2
     - Week 3
     - Week 4
+- Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+    - Week 1
+    - Week 2
